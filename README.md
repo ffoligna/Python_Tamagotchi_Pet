@@ -1,2 +1,1 @@
-# Python-Practicas
-Ejercicios y prácticas en Python.
+# Python Tamagotchi Pet
